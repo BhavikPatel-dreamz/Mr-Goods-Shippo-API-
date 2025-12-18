@@ -1,0 +1,9 @@
+{
+  "name": "vercel-shippo-api",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "axios": "^1.6.0",
+    "mongodb": "^6.3.0"
+  }
+}
